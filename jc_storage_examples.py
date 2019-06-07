@@ -119,7 +119,7 @@ if __name__ == '__main__':
     print("---------------------------------------------------")
     print("https://www.d-logic.net/nfc-rfid-reader-sdk/")
     print("---------------------------------------------------")
-    print("uFR Advance console example application version 1.0")
+    print("uFR JC storage console example application version 1.0")
     print("---------------------------------------------------")
     globals.initialize()  # initializing global vars
     print("Select reader opening mode:")
